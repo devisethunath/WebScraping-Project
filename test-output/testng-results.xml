@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-14T17:33:34Z" name="Suite" finished-at="2022-03-14T18:08:31Z" duration-ms="2097464">
+    <groups>
+    </groups>
+    <test started-at="2022-03-14T17:33:34Z" name="Test" finished-at="2022-03-14T18:08:31Z" duration-ms="2097464">
+      <class name="com.WebScrapingProject.testCases.TC_001ApiTesting">
+        <test-method signature="ScrapingApiTest()[pri:0, instance:com.WebScrapingProject.testCases.TC_001ApiTesting@39a8312f]" started-at="2022-03-14T17:46:17Z" name="ScrapingApiTest" finished-at="2022-03-14T18:08:31Z" duration-ms="1334356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrapingApiTest -->
+      </class> <!-- com.WebScrapingProject.testCases.TC_001ApiTesting -->
+      <class name="com.WebScrapingProject.testCases.TC_003Postman">
+        <test-method signature="ScrapingApiTest()[pri:0, instance:com.WebScrapingProject.testCases.TC_003Postman@6492fab5]" started-at="2022-03-14T17:33:34Z" name="ScrapingApiTest" finished-at="2022-03-14T17:43:49Z" duration-ms="615773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrapingApiTest -->
+      </class> <!-- com.WebScrapingProject.testCases.TC_003Postman -->
+      <class name="com.WebScrapingProject.testCases.TC_002RestAssured">
+        <test-method signature="ScrapingApiTest()[pri:0, instance:com.WebScrapingProject.testCases.TC_002RestAssured@2c5529ab]" started-at="2022-03-14T17:43:50Z" name="ScrapingApiTest" finished-at="2022-03-14T17:46:17Z" duration-ms="147218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrapingApiTest -->
+      </class> <!-- com.WebScrapingProject.testCases.TC_002RestAssured -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
